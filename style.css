@@ -10,6 +10,7 @@ body {
 
 .cabecalho {
     background-color: var(--cor-cabecalho);
+    text-align: center;
 }
 
 .cabecalho-titulo {
@@ -34,3 +35,10 @@ body {
         border: 1px solid;
 
     }
+
+.vader {
+    width: 50px;
+
+
+
+}
